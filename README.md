@@ -8,6 +8,9 @@ Este repositório foi criado a partir do curso de Estrutura de dados em Java do 
  - Conceito e encadeamento de nó;
  - Pilhas (LIFO: Last in, First Out);
  - Filas (FIFO: First in, First Out);
+ - Listas Encadeadas;
+ - Listas Duplamente Encadeadas;
+ - Listas Circulares;
 
 
 ### Repositório do curso: [estruturaDeDadosJavaDio](https://github.com/jrdutra/estruturaDeDadosJavaDio)
