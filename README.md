@@ -11,6 +11,8 @@ Este repositório foi criado a partir do curso de Estrutura de dados em Java do 
  - Listas Encadeadas;
  - Listas Duplamente Encadeadas;
  - Listas Circulares;
+ - Árvores Binárias;
+ - As estruturas do Java.
 
 
 ### Repositório do curso: [estruturaDeDadosJavaDio](https://github.com/jrdutra/estruturaDeDadosJavaDio)
